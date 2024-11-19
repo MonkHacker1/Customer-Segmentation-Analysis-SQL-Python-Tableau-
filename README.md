@@ -1,4 +1,4 @@
-# TravelTide
+# Customer Segmentation Analysis (SQL,Python & Tableau)
 ## Project Description:
 This project aims to analyze customer behavior and preferences to define the most attractive reward or perk for each customer group. It involves processing customer data, calculating various indexes, segmenting customers, and determining suitable perks for each segment. The project also explores customer demographics to tailor the perks accordingly.
 
