@@ -18,10 +18,5 @@ This project aims to analyze customer behavior and preferences to define the mos
 
 **Conclusions and Recommendations:** Summarizing the project's goals, findings, and provide recommendations based on customer segmentation. Creating slides and video presentation in canves.com
 
-## Resources: 
-* [Dashboards Story](https://public.tableau.com/app/profile/alexandra.meshi/viz/TravelTide_16935125418790/TravelTide) in Tableau
 
-* [Video Presentation](https://www.canva.com/design/DAFtYDpuErE/TiREg8ncRvrsOX7qcu45zA/view?utm_content=DAFtYDpuErE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-* [Presentation Slides](https://www.canva.com/design/DAFtYDpuErE/Y0ZKZGRWpbUigcby1MRhdw/edit?utm_content=DAFtYDpuErE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
